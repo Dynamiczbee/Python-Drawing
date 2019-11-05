@@ -56,20 +56,20 @@ def nested_squares_centered3(increase, squares, x, y):
 
 pen_up()
 turn_right(18)
-nested_squares_centered1(30, 10, 90, 0)
+nested_squares_centered1(30, 10, 84, 0)
 pen_up()
 turn_right(18)
-nested_squares_centered2(25, 10, 322, 204)
+nested_squares_centered2(25, 10, 316, 204)
 pen_up()
-nested_squares_centered3(20, 10, 114, 248)
+nested_squares_centered3(20, 10, 108, 248)
 pen_up()
 
 input("Switch to new color, press enter to continue")
 
-move_to(107,11)
-line(340, 207)
-line(122,256)
-line(107,11)
+move_to(101,11)
+line(334, 207)
+line(116,256)
+line(101,11)
 
 input("Switch to new color, press enter to continue")
 
